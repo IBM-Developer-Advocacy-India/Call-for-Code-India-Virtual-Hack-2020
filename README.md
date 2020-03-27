@@ -23,7 +23,14 @@ No. The India challenge though a subsidiary of the global challenge, it does not
 As stated earlier, India challenge submissions will only be considered for the Call for Code India Virtual Hack. You will need to create a seperate submission to the global challenge as given in the portal. https://callforcode.org/submit/
 
 ## Resources
-Please refer to the global resource list https://developer.ibm.com/callforcode/
+Please refer to the [global resources](https://developer.ibm.com/callforcode/technical-library/#start-coding?cm_mmc=OSocial_Blog-_-Audience+Developer_Developer+Conversation-_-WW_WW-_-cfc-2020-cfcorg-resources_ov75914&cm_mmca1=000039JL&cm_mmca2=10008917)
+
+## Timeline
+
+1. Registration begings on April 1st, 2020, closes April 7th.
+2. Technical webcast and enablement for registered participants on April 8th, 2020.
+3. Submissions for hackathon begins on April 8th, 2020 and ends on April 15th, 2020.
+4. Evaluation begins on April 15th, results announced on April 20th, 2020.
 
 ## General guidelines for submission
 
@@ -60,3 +67,14 @@ Submissions will be judged equally across 4 primary criteria which evaluate whet
  * *Creativity and innovation*
  How unique was the approach to solving a long-standing or previously intractable problem?
  
+## Rules
+
+1. Submissions – Submissions must use one or more [IBM Cloud services](https://callforcode.org/participation-agreement) or [IBM Systems](https://ibm.com/systems). Use of sponsor or affiliate APIs and open source libraries is also encouraged.
+2. Team size – Teams of up to five (5) participants, each at least 18 years old, are allowed.
+3. Joining teams –
+4. A participant may not be part of multiple teams.
+5. Participation agreement –All team members must have accepted the [2020 Participation Agreement](https://callforcode.org/participation-agreement) at the time they submit to be eligible.
+6. Application standards – Applications must be new and built for the 2020 competition, but they may use code that was open sourced and publicly available to all other participants as of February 26, 2020.
+7. Winners – Winning teams will be subject to a code review after submissions close.
+
+
