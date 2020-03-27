@@ -1,34 +1,29 @@
 # Call-for-Code-India-Virtual-Hack-2020
 
-## What is Call for Code?
+## FAQ
 
+### What is Call for Code?
 Call for Code asks innovators to create practical, effective, and high-quality applications based on one or more IBM Cloud™ services (for example, web, mobile, data, analytics, AI, IoT, or weather) that can have an immediate and lasting impact on humanitarian issues. Teams of developers, data scientists, designers, business analysts, subject matter experts and more are challenged to build solutions to mitigate the impact of COVID-19 and climate change. 
 
 This year the competition will have two tracks. One track is for solutions that help halt and reverse the impact of climate change. The second track is for solutions to mitigate the impact of global pandemics like COVID-19 on communities around the world. Winning solutions are deployed in communities that need the most help.
 
-## What is Call for Code India Virtual Hack?
-
+### What is Call for Code India Virtual Hack?
 Every year as a part of the global challenge, we organize regional hackathons for India where teams are mentored by seasoned developer advocates from IBM. Similarly this event is a subsidiary of the global challenge. But as you know with the recent increase in the number of cases for COVID-19 and light of the measures declared by our Government for a 21 days lockdown, we are taking the challenge to your doorstep virtually.
 
-## Is it different from the Global Challenge?
-
+### Is it different from the Global Challenge?
 No, it is a part of the global challenge.
 
-## How will it affect my chances of participation in the the global challenge?
-
+### How will it affect my chances of participation in the the global challenge?
 With the Call for Code India Hackathon, you will be able to get in touch with developers who are at the heart of technology everyday, you will be able to refine and send in a matured submission with an increased chance of getting to the finish line.
 
-## Will willing the India challenge gurantanee a regional win for the Global Challenge?
-
+### Will willing the India challenge gurantanee a regional win for the Global Challenge?
 No. The India challenge though a subsidiary of the global challenge, it does not affect or change your submission to the global challenge.
 
-## Will I need to do a seperate submission to the global challenge?
-
+### Will I need to do a seperate submission to the global challenge?
 As stated earlier, India challenge submissions will only be considered for the Call for Code India Virtual Hack. You will need to create a seperate submission to the global challenge as given in the portal. https://callforcode.org/submit/
 
 ## Resources
-
-
+Please refer to the global resource list https://developer.ibm.com/callforcode/
 
 ## General guidelines for submission
 
@@ -48,3 +43,20 @@ The team leader who submitted the solution will receive a confirmation comment o
 ## Submissions
 
 Please copy and paste the following information on the README.md file of your git repository
+
+## Judging
+
+Submissions will be judged equally across 4 primary criteria which evaluate whether the solution solves a real-world problem and uses technology effectively.
+
+ * *Completeness and transferability*
+ How fully has the idea been implemented? Can it achieve an impact in the field? Can it be transferred elsewhere?
+ 
+ * *Effectiveness and efficiency*
+ Does the solution address a high priority area? Does it achieve its goal effectively and efficiently? Can it scale?  
+ 
+ * *Design and usability*
+ How good is the design, user experience, and ease of use of the solution? How quickly can it be put to use?
+ 
+ * *Creativity and innovation*
+ How unique was the approach to solving a long-standing or previously intractable problem?
+ 
