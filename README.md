@@ -8,28 +8,28 @@ Call for Code asks innovators to create practical, effective, and high-quality a
 This year the competition will have two tracks. One track is for solutions that help halt and reverse the impact of climate change. The second track is for solutions to mitigate the impact of global pandemics like COVID-19 on communities around the world. Winning solutions are deployed in communities that need the most help.
 
 ### What is Call for Code India Virtual Hack?
-Every year as a part of the global challenge, we organize regional hackathons for India where teams are mentored by seasoned developer advocates from IBM. Similarly this event is a subsidiary of the global challenge. But as you know with the recent increase in the number of cases for COVID-19 and light of the measures declared by our Government for a 21 days lockdown, we are taking the challenge to your doorstep virtually.
+Every year as a part of the global challenge, we organize regional hackathons for India where teams are mentored by seasoned developer advocates from IBM. Similarly, this event is a subsidiary of the global challenge. But as you know with the recent increase in the number of cases for COVID-19 and light of the measures declared by our Government for a 21 days lockdown, we are taking the challenge to your doorstep virtually.
 
 ### Is it different from the Global Challenge?
 No, it is a part of the global challenge.
 
-### How will it affect my chances of participation in the the global challenge?
-With the Call for Code India Hackathon, you will be able to get in touch with developers who are at the heart of technology everyday, you will be able to refine and send in a matured submission with an increased chance of getting to the finish line.
+### How will it affect my chances of participation in the global challenge?
+With the Call for Code India Hackathon, you will be able to get in touch with developers who are at the heart of technology every day, you will be able to refine and send in a matured submission with an increased chance of getting to the finish line.
 
-### Will willing the India challenge gurantanee a regional win for the Global Challenge?
+### Will willing the India challenge guarantee a regional win for the Global Challenge?
 No. The India challenge though a subsidiary of the global challenge, it does not affect or change your submission to the global challenge.
 
-### Will I need to do a seperate submission to the global challenge?
-As stated earlier, India challenge submissions will only be considered for the Call for Code India Virtual Hack. You will need to create a seperate submission to the global challenge as given in the portal. https://callforcode.org/submit/
+### Will I need to do a separate submission to the global challenge?
+As stated earlier, India challenge submissions will only be considered for the Call for Code India Virtual Hack. You will need to create a separate submission to the global challenge as given in the portal. https://callforcode.org/submit/
 
 ## Resources
 Please refer to the [global resources](https://developer.ibm.com/callforcode/technical-library/#start-coding?cm_mmc=OSocial_Blog-_-Audience+Developer_Developer+Conversation-_-WW_WW-_-cfc-2020-cfcorg-resources_ov75914&cm_mmca1=000039JL&cm_mmca2=10008917)
 
 ## Timeline
 
-1. Registration begings on April 1st, 2020, closes April 7th.
+1. Registration begins on April 1st, 2020, closes April 7th.
 2. Technical webcast and enablement for registered participants on April 8th, 2020.
-3. Submissions for hackathon begins on April 8th, 2020 and ends on April 15th, 2020.
+3. Submissions for the hackathon begin on April 8th, 2020 and end on April 15th, 2020.
 4. Evaluation begins on April 15th, results announced on April 20th, 2020.
 
 ## General guidelines for submission
@@ -39,7 +39,7 @@ Please refer to the [global resources](https://developer.ibm.com/callforcode/tec
 3. Short description- Describe your team’s solution in about ten words.
 4. Long description- Write about 500 words, or around one page of text, that covers the solution in more detail. Please include the real-world problem you identified, describe the technology project you created, and explain why it’s better than any existing solution. You can supply additional documentation in your source code repository link below
 5. Solution roadmap- Create a document or image that shows how mature your solution is today and how you would like to improve it in the future. This can include information on the business model, funding needs, and a sustainability plan.
-6. Link to publicly accessible GitHub repository- (or other location such as GitLab or Box) where the judges can download, examine, and evaluate the source code behind the solution. You can provide additional description and diagrams in the repository. Hint: Review the judging criteria and rules: 2020 Call for Code Global Challenge.
+6. Link to publicly accessible GitHub repository- (or other location such as GitLab or Box) where the judges can download, examine, and evaluate the source code behind the solution. You can provide additional descriptions and diagrams in the repository. Hint: Review the judging criteria and rules: 2020 Call for Code Global Challenge.
 7. Link to a three-minute demo video- Record a demo of your project, upload it to YouTube or Vimeo and share the URL. Three minutes is the maximum length. You can link to longer versions from your source code repository. Keep in mind that non-technical judges may rely on this more than technical documentation.
 8. List of one or more IBM Cloud Services or IBM Systems used in the solution- Join the Challenge Community to get an IBM Cloud account. Your application can use additional data sets, libraries, and externally-hosted services to complement the IBM Cloud services or IBM Systems.
 9. Your email address and the email addresses of up to four additional team members- Each team member needs to accept the Participation Agreement. You can only be part of one team of up to 5 members, and your team can only submit one application.
@@ -56,25 +56,23 @@ Please copy and paste the following information on the README.md file of your gi
 Submissions will be judged equally across 4 primary criteria which evaluate whether the solution solves a real-world problem and uses technology effectively.
 
  * *Completeness and transferability*
- How fully has the idea been implemented? Can it achieve an impact in the field? Can it be transferred elsewhere?
+ How fully has the idea been implemented? Can it achieve an impact on the field? Can it be transferred elsewhere?
  
  * *Effectiveness and efficiency*
  Does the solution address a high priority area? Does it achieve its goal effectively and efficiently? Can it scale?  
  
  * *Design and usability*
- How good is the design, user experience, and ease of use of the solution? How quickly can it be put to use?
+ How good are the design, user experience, and ease of use of the solution? How quickly can it be put to use?
  
  * *Creativity and innovation*
  How unique was the approach to solving a long-standing or previously intractable problem?
  
 ## Rules
 
-1. Submissions – Submissions must use one or more [IBM Cloud services](https://callforcode.org/participation-agreement) or [IBM Systems](https://ibm.com/systems). Use of sponsor or affiliate APIs and open source libraries is also encouraged.
-2. Team size – Teams of up to five (5) participants, each at least 18 years old, are allowed.
+1. Submissions – Submissions must use one or more [IBM Cloud services](https://callforcode.org/participation-agreement) or [IBM Systems](https://ibm.com/systems). The use of sponsor or affiliate APIs and open source libraries is also encouraged.
+2. Team Size – Teams of up to five (5) participants, each at least 18 years old, are allowed.
 3. Joining teams –
 4. A participant may not be part of multiple teams.
 5. Participation agreement –All team members must have accepted the [2020 Participation Agreement](https://callforcode.org/participation-agreement) at the time they submit to be eligible.
-6. Application standards – Applications must be new and built for the 2020 competition, but they may use code that was open sourced and publicly available to all other participants as of February 26, 2020.
+6. Application standards – Applications must be new and built for the 2020 competition, but they may use code that was open-sourced and publicly available to all other participants as of February 26, 2020.
 7. Winners – Winning teams will be subject to a code review after submissions close.
-
-
