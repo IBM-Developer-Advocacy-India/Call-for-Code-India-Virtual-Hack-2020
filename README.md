@@ -2,7 +2,7 @@
 
 ## 1. Create an IBM Cloud Account
 
- a. Click to create [IBM cloud account](https://ibm.biz/BdqjEz), if you have not done so already. Follow the steps here.
+ a. Click to create [IBM cloud account](bit.ly/prayudh), if you have not done so already. Follow the steps here.
 
  b. Put your email id and other necessary info
 
