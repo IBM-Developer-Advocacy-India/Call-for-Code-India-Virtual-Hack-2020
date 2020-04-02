@@ -4,17 +4,17 @@
 
  a. Click to create [IBM cloud account](bit.ly/prayudh), if you have not done so already. Follow the steps here.
 
- b. Put your email id and other necessary info
+b. Put your email id and other necessary info and click 'Next'.
 
- ![Registration](img/register1.gif)
+ ![Registration](img/register.png)
 
- c. Go to your mailbox and confirm the account activation.
+ c. Fill in your Company or College details, opt in for Email and click 'Submit'.
 
- ![Account activation](img/done.png)
+ ![Company info](img/done.png)
 
- d. You will arrive at this screen, click on 'complete registration' to finish up.
+ d. You will arrive at this screen, your registration is done. Go through the details for participation.
 
- ![Registration Completed](img/reg-compl.png)
+ ![Registration Completed](img/registration.png)
 
   **Note:** In case you already have a IBMCloud account, click on https://cloud.ibm.com/login
 
