@@ -30,13 +30,23 @@ b. Put your email id and other necessary info and click 'Next'.
 
     - If error persists – please delete browser cache and initiate registration through “Incognito Mode” on Browser
 
-## Explore and preferrably complete the following badges
+## Explore and preferrably complete one or more of the following badges
 
 Go to [https://cognitiveclass.ai](https://cognitiveclass.ai)
 
 - Badge earning Duration – 3-6 Hours
 
-  Badge details placeholder
+ | Badge    |      Name     |  Description|
+ |----------|:-------------:|------:|
+ |!(node.png)|[Node-RED: basics to bots](https://cognitiveclass.ai/badges/node-red-basics-to-bots)| **Why earn this badge?**
+This badge earner understands how to create simple to complex applications in the Node-RED flow editor. These applications include a Node-RED boilerplate that uses JavaScript and built in IBM Cloud; a REST API; Watson cognitive applications that can translate text, analyze tone, replay audio and video, and send tweets to Twitter; and a Facebook Messenger bot that uses the Watson Assistant service. |
+ |!(cloud.png) |[IBM Cloud Essentials](https://cognitiveclass.ai/badges/ibm-cloud-essentials)|**Why earn this badge?**
+    - To get an understanding of the relevance of IBM Cloud platform in the cloud computing paradigm.
+    - Understanding of the high level architecture of IBM Cloud.
+    - Understanding of boilerplates, services and runtimes supported on IBM Cloud.
+    - Ability to develop and deploy simple applications using IBM Cloud services on the IBM Cloud platform.|
+ |!(ml.png)| [Machine Learning with Python](https://cognitiveclass.ai/badges/machine-learning-python)| **Why earn this badge?**
+The badge earner has demonstrated an understanding of Supervised vs. Unsupervised Learning, how Statistical Modelling relates to Machine Learning, and how to build and evaluate machine learning models.|
 
 ## Get to know the community and interact with us on Slack
 
