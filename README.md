@@ -30,7 +30,7 @@ b. Put your email id and other necessary info and click 'Next'.
 
     - If error persists – please delete browser cache and initiate registration through “Incognito Mode” on Browser
 
-## Explore and preferrably complete one or more of the following badges
+## 2.Explore and preferrably complete one or more of the following badges
 
 Go to [https://cognitiveclass.ai](https://cognitiveclass.ai)
 
@@ -42,14 +42,14 @@ Go to [https://cognitiveclass.ai](https://cognitiveclass.ai)
  |![Cloud](img/cloud.png) | [IBM Cloud Essentials](https://cognitiveclass.ai/badges/ibm-cloud-essentials) | Get an understanding of the relevance of IBM Cloud platform in the cloud computing paradigm. Understanding of the high level architecture of IBM Cloud. Understanding of boilerplates, services and runtimes supported on IBM Cloud. Ability to develop and deploy simple applications using IBM Cloud services on the IBM Cloud platform. |
  |![ML](img/ml.png)| [Machine Learning with Python](https://cognitiveclass.ai/badges/machine-learning-python) | The badge earner has demonstrated an understanding of Supervised vs. Unsupervised Learning, how Statistical Modelling relates to Machine Learning, and how to build and evaluate machine learning models. |
 
-## Get to know the community and interact with us on Slack
+## 3. Get to know the community and interact with us on Slack
 
   Join the cfc-virtual channel
 -[http://ibm.biz/dev-community](http://ibm.biz/dev-community)
 
   If you do not have a team of your own, you can ask in the regional community channels like #bangalore-community
 
-## Important Resources for the hackathon
+## 4. Important Resources for the hackathon
 
 - About [CFC India Virtual Hack](https://cfc-india.eu-gb.mybluemix.net/)
 
