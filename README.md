@@ -1,20 +1,31 @@
-# Call for Code 2020 India Virtual Hack - Guidance Kit
+# Call for Code 2020 India Virtual Hack
 
-## 1. Create an IBM Cloud Account
+## About
 
- a. Click to create [IBM cloud account](bit.ly/prayudh), if you have not done so already. Follow the steps here.
+Call for Code asks innovators to create practical, effective, and high-quality applications based on one or more IBM Cloud™ services (for example, web, mobile, data, analytics, AI, IoT, or weather) that can have an immediate and lasting impact on humanitarian issues. Teams of developers, data scientists, designers, business analysts, subject matter experts and more are challenged to build solutions to mitigate the impact of COVID-19 and Climate Change.
 
-b. Put your email id and other necessary info and click 'Next'.
+## Prizes
 
- ![Registration](img/register.png)
+Top submissions will win exciting prizes for the Challenge
 
- c. Fill in your Company or College details, opt in for Email and click 'Submit'.
+Additionally the entries can also be submitted for Call for Code Global Challenge and be eligible to win prizes in 2 categories
 
- ![Company info](img/done.png)
+**Global Challenge Category**
+Grand prize  – $200,000 USD, Runner up First and second – $25,000 USD, Runner up Third and fourth – $10,000 USD
 
- d. You will arrive at this screen, your registration is done. Go through the details for participation.
+**University Edition**
+Grand prize – $10,000 USD. 
+Each student team member will receive the opportunity to interview for a potential role at IBM. 
+Runner up - Each student team member will receive the opportunity to interview for a potential role at IBM.
 
- ![Registration Completed](img/registration.png)
+## Support:
+
+Post your queries on our Slack channel #prayudh to get them answered. https://bit.ly/ibm-dev 
+
+
+## Things to complete before the hackathon
+
+### 1. Create an IBM Cloud Account
 
   **Note:** In case you already have a IBMCloud account, click on https://cloud.ibm.com/login
 
@@ -30,7 +41,7 @@ b. Put your email id and other necessary info and click 'Next'.
 
     - If error persists – please delete browser cache and initiate registration through “Incognito Mode” on Browser
 
-## 2.Explore and preferrably complete one or more of the following badges
+### 2.Explore and preferrably complete one or more of the following badges
 
 Go to [https://cognitiveclass.ai](https://cognitiveclass.ai)
 
@@ -42,14 +53,14 @@ Go to [https://cognitiveclass.ai](https://cognitiveclass.ai)
  |![Cloud](img/cloud.png) | [IBM Cloud Essentials](https://cognitiveclass.ai/badges/ibm-cloud-essentials) | Get an understanding of the relevance of IBM Cloud platform in the cloud computing paradigm. Understanding of the high level architecture of IBM Cloud. Understanding of boilerplates, services and runtimes supported on IBM Cloud. Ability to develop and deploy simple applications using IBM Cloud services on the IBM Cloud platform. |
  |![ML](img/ml.png)| [Machine Learning with Python](https://cognitiveclass.ai/badges/machine-learning-python) | The badge earner has demonstrated an understanding of Supervised vs. Unsupervised Learning, how Statistical Modelling relates to Machine Learning, and how to build and evaluate machine learning models. |
 
-## 3. Get to know the community and interact with us on Slack
+### 3. Get to know the community and interact with us on Slack
 
   Join the cfc-virtual channel
--[http://ibm.biz/dev-community](http://ibm.biz/dev-community)
+-[http://bit.ly/ibm-dev](http://bit.ly/ibm-dev)
 
   If you do not have a team of your own, you can ask in the regional community channels like #bangalore-community
 
-## 4. Important Resources for the hackathon
+### 4. Important Resources for the hackathon
 
 - About [CFC India Virtual Hack](https://cfc-india.eu-gb.mybluemix.net/)
 
@@ -67,15 +78,7 @@ Go to [https://cognitiveclass.ai](https://cognitiveclass.ai)
 
 - IBM Skills Gateway - [https://www.ibm.com/training](https://www.ibm.com/training)
 
-## 5. Webinar resources
-
-- [Debjani's presentation deck](call-for-code-india.pptx)
-- Yuktesh's resources - [IBM Cloud Account](www.cloud.ibm.com)
-- [Karan's lab](https://developer.ibm.com/tutorials/crisis-communication-chatbot-watson-assistant-webhook-integration-discovery-covid-data/)
-
-**Note** All other resources are there on the presentation deck.
-
-## 6. Submission Guidelines
+### 5. Submission Guidelines
 
 ### FAQ
 
@@ -85,32 +88,30 @@ Call for Code asks innovators to create practical, effective, and high-quality a
 
 This year the competition will have two tracks. One track is for solutions that help halt and reverse the impact of climate change. The second track is for solutions to mitigate the impact of global pandemics like COVID-19 on communities around the world. Winning solutions are deployed in communities that need the most help.
 
-#### 2\. What is Call for Code India Virtual Hack?
+#### 2\. What is Call for Code India Virtual Hack and How will it affect my chances of participation in the global challenge?
 
 Every year as a part of the global challenge, we organize regional hackathons for India where teams are mentored by seasoned developer advocates from IBM. Similarly, this event is a subsidiary of the global challenge. But as you know with the recent increase in the number of cases for COVID-19 and light of the measures declared by our Government for a 21 days lockdown, we are taking the challenge to your doorstep virtually.
 
-#### 3\. Is it different from the Global Challenge?
-
-No, it is a part of the global challenge.
-
-#### 4\. How will it affect my chances of participation in the global challenge?
-
 With the Call for Code India Hackathon, you will be able to get in touch with developers who are at the heart of technology every day, you will be able to refine and send in a matured submission with an increased chance of getting to the finish line.
 
-#### 5\. Will willing the India challenge guarantee a regional win for the Global Challenge?
+#### 3\. Do I need to pay any money to register for the Hackathon?
 
-No. The India challenge though a subsidiary of the global challenge, it does not affect or change your submission to the global challenge.
+No. You do not have to pay anything to anyone to register yourself for hackathon. It is free of cost.
 
-#### 6\. Will I need to do a separate submission to the global challenge?
+#### 4\. Where do I get assistance for this hackathon? Is there a platform where I can post my queries, discuss and get assistance?
+
+You can post your queries in the discussion forum to reach out to IBM developer advocates on this Slack Channel #prayudh and join [here.](https://www.bit.ly/ibm-dev)
+
+#### 5\. Will I need to do a separate submission to the global challenge?
 
 As stated earlier, India challenge submissions will only be considered for the Call for Code India Virtual Hack. You will need to create a separate submission to the global challenge as given in the portal. [https://callforcode.org/submit/](https://callforcode.org/submit/)
 
 ### Timeline
 
-1.  Registration begins on April 2nd, 2020 and closes on April 10th, 2020.
-2.  Technical webcast and enablement for registered participants on April 10th, 2020.
-3.  Submissions for the hackathon begin on April 10th, 2020 and ends on April 15th, 2020.
-4.  Evaluation begins on April 15th, results announced on April 22nd, 2020.
+1. Registration begins on April 17th,2020 and closes on May 1st, 2020.
+2. Technical webcast and enablement for registered participants on May 5th, 2020.
+3. Submissions for the hackathon begin on May 5th, 2020 and ends on May 11th, 2020.
+4. Evaluation begins on May 11th, results announced on May 19th, 2020.
 
 ### Submission Guidelines
 
